@@ -1,0 +1,8 @@
+{
+  "MAX_LEN": 802,
+  "CHUNK_SIZE": 802,
+  "STEP": 401,
+  "MAX_WORDS": 20000,
+  "EMBED_DIM": 128,
+  "p95_test_docs": 2998
+}
